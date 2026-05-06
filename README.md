@@ -1,10 +1,10 @@
-# 📸 Demo
+# 🌍 GeoDash Explorer
 
-<!-- Sustituye esto por una captura, GIF o enlace al deploy -->
-![Demo del proyecto](./assets/demo.png)
+## 📸 Demo
 
-🔗 **Demo en vivo:** [https://tu-usuario.github.io/nombre-del-proyecto](https://tu-usuario.github.io/nombre-del-proyecto)
+![Demo del proyecto](demo.png)
 
+🔗 **Demo en vivo:** https://geodashtiburones.streamlit.app
 ---
 
 ## 📋 Tabla de contenidos
