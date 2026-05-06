@@ -5,7 +5,9 @@
 ![Demo del proyecto](demo.png)
 
 🔗 **Demo en vivo:** https://geodashtiburones.streamlit.app
----
+
+
+
 
 ## 📋 Tabla de contenidos
 
